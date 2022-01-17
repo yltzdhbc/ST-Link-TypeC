@@ -69,7 +69,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTRBEYFQ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ST-Link\Design Rule Check - ST-Link.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
