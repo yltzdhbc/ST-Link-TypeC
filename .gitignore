@@ -4,3 +4,4 @@ Hardware/Template.PrjPCBStructure
 Hardware/History
 Hardware/Project Logs for ST-Link
 Hardware/Project Outputs for ST-Link
+*.log
